@@ -1,0 +1,1 @@
+This is the browser automation application for YouTube service which includes several basic tests in e2e/you-tube-tests dir.
